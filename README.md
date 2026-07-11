@@ -168,7 +168,7 @@ http://localhost:3000
 The application allows users to add, update, and delete tasks through a simple and responsive interface.
 
 <p align="center">
-  <img src="https://github.com/vighneshmunde/Todo-List-Application/blob/main/home-page.png" alt="Todo List Application" width="850"/>
+  <img src="https://github.com/vighneshmunde/Todo-List-Application/blob/main/home-page.png" alt="Todo List Application" width="480"/>
 </p>
 
 ## 🎯 Learning Outcomes
