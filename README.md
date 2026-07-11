@@ -161,19 +161,15 @@ http://localhost:3000
 
 ---
 
-## 📸 Application Screenshots
+## 📸 Application Screenshot
 
-### Home Page
+### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+The application allows users to add, update, and delete tasks through a simple and responsive interface.
 
----
-
-### Edit Task
-
-![Edit Task](screenshots/edit-task.png)
-
----
+<p align="center">
+  <img src="screenshots/home-page.png" alt="Todo List Application" width="850"/>
+</p>
 
 ## 🎯 Learning Outcomes
 
